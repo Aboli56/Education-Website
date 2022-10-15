@@ -197,8 +197,8 @@ nav .navigation ul li a:hover{
   #course .courses .details{
     padding: 15px 15px 0 15px;
   }
-  #course .courses .details span{
-    padding-bottom: 10px 0;
+  #course .courses .details span,h6{
+    padding-bottom: 10px;
   }
   #course .courses .details i{
     color: #fdc93b;
