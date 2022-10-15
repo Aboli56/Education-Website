@@ -187,7 +187,8 @@ nav .navigation ul li a:hover{
   }
   #course .courses{
     text-align: start;
-    background-color: #f9f9ff;
+    /* background-color: #f9f9ff; */
+    background-color: yellow;
     position: relative;
     overflow: hidden;
   }
